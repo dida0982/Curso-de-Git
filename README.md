@@ -1,4 +1,3 @@
-#Curso de Git e GitHub
 <h1 align="center"> Curso de Git e GitHub </h1>
 
 **`git`** (local) != **`GitHub`** (remoto)
