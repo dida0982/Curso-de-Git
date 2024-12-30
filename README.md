@@ -1,6 +1,6 @@
 # Curso de Git e GitHub
 
-## ```git``` (local) != ```GitHub``` (remoto)
+## ```git``` (local)  !=  ```GitHub``` (remoto)
 
 Configura o nome do usuário localmente, usado para identificar quem fez os commits.
  ``` 
