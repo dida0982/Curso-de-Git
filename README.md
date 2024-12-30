@@ -1,6 +1,6 @@
-#Curso de Git e GitHub
+**#Curso de Git e GitHub**
 
-git (local) != GitHub (remoto)
+**`git`** (local) != **`GitHub`** (remoto)
 
 1. **`git config user.name "Seu Nome"`**  
    Configura o nome do usuário localmente, usado para identificar quem fez os commits.
