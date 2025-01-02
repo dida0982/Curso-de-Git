@@ -109,7 +109,7 @@ Inicializa um novo repositório Git no diretório atual, criando a pasta `.git`.
  
  Arquivo `.gitignore`, especificar arquivos ou diretórios que o Git deve ignorar.       
 
- *feat - fazer, feio, adicionar
- *fix - concertar 
- *ex: del(nomeDaPasta):commit
+ - feat = fazer, feio, adicionar
+ - fix = concertar 
+ - ex: del(nomeDaPasta):commit
  
