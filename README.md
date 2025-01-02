@@ -107,4 +107,9 @@ Inicializa um novo repositório Git no diretório atual, criando a pasta `.git`.
  git reset --hard origin/main
 ```   
  
- Arquivo `.gitignore`, especificar arquivos ou diretórios que o Git deve ignorar.                          
+ Arquivo `.gitignore`, especificar arquivos ou diretórios que o Git deve ignorar.       
+
+ *feat - fazer, feio, adicionar
+ *fix - concertar 
+ *ex: del(nomeDaPasta):commit
+ 
